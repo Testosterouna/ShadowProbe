@@ -52,7 +52,7 @@ ShadowProbe is designed to be flexible, supporting both quick unprivileged scans
 
 ---
 
-### 📖 Practical Examples
+### Practical Examples
 
 **1. Basic Subnet Discovery (Non-Root)**
 Quickly scan a local subnet without administrative privileges, disabling OS detection and forcing a TCP connection.
