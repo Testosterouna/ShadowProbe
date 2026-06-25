@@ -1,0 +1,11 @@
+# Ignore standard Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Ignore ShadowProbe output reports
+*.json
+*.txt
+scan_output/
