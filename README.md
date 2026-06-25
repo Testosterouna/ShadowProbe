@@ -1,4 +1,4 @@
-# ShadowProbe 🕵️‍♂️
+# ShadowProbe 
 
 **ShadowProbe** is an advanced Python wrapper for the Nmap engine. It automates network scanning, handles privilege-based OS constraints, and transforms raw Nmap data into clean, structured JSON and readable text reports. 
 
